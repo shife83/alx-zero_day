@@ -1,2 +1,2 @@
-‘#! /bin/bash’
-“The school is open! ”
+‘#/root/0x01_emacs/opening bin/bash’
+The school is open!
